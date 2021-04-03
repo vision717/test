@@ -1,0 +1,4 @@
+﻿  源.c
+D:\study\VS2019\test\test\源.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\study\VS2019\test\test\源.c(9,9): message : 请考虑在格式字符串中使用“%zd”
+  test.vcxproj -> D:\study\VS2019\test\x64\Debug\test.exe
